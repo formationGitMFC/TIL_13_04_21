@@ -3,3 +3,5 @@
 
 # Tentative de génération de conflit
 Est-ce je vais foutre le bazar? 
+
+Surement ! Mais c'est pas grave.
